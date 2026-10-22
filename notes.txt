@@ -1,2 +1,3 @@
 I want to learn Git and GitHub
 I aim to improve my skills
+I am excited to start working on the labs.
